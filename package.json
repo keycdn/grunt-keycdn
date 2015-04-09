@@ -1,0 +1,31 @@
+{
+  "name": "grunt-keycdn",
+  "version": "0.0.1",
+  "description": "Grunt task for interacting with the KeyCDN API",
+  "homepage": "https://github.com/keycdn/grunt-keycdn",
+  "author": "KeyCDN <support@keycdn.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keycdn/grunt-keycdn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keycdn/grunt-keycdn/issues"
+  },
+  "license": "MIT",
+  "main": "Gruntfile.js",
+  "scripts": {
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.11.1",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "cdn", "content delivery network", "keycdn", "purge", "grunt plugin", "grunt"
+  ],
+  "dependencies": {
+    "keycdn": "~0.1.1"
+  }
+}
