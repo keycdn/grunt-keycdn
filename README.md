@@ -1,6 +1,6 @@
 # grunt-keycdn
 
-Grunt task to interact with the KeyCDN API.
+Grunt plugin to interact with the KeyCDN API.
 
 ## Usage
 
@@ -39,3 +39,6 @@ grunt.initConfig({
     },
   });
 ~~~
+
+
+For more details visit https://www.keycdn.com

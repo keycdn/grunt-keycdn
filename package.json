@@ -1,8 +1,8 @@
 {
   "name": "grunt-keycdn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Grunt plugin for interacting with the KeyCDN API",
-  "homepage": "https://github.com/keycdn/grunt-keycdn",
+  "homepage": "https://www.keycdn.com",
   "author": "KeyCDN <support@keycdn.com>",
   "repository": {
     "type": "git",
