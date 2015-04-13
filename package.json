@@ -26,6 +26,6 @@
     "cdn", "content delivery network", "keycdn", "purge", "gruntplugin", "grunt"
   ],
   "dependencies": {
-    "keycdn": "~0.1.1"
+    "keycdn": "~0.1.2"
   }
 }
