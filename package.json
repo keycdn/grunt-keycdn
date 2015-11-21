@@ -1,6 +1,6 @@
 {
   "name": "grunt-keycdn",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Grunt plugin for interacting with the KeyCDN API",
   "homepage": "https://www.keycdn.com",
   "author": "KeyCDN <support@keycdn.com>",
@@ -13,8 +13,7 @@
   },
   "license": "MIT",
   "main": "Gruntfile.js",
-  "scripts": {
-  },
+  "scripts": {},
   "devDependencies": {
     "grunt-contrib-jshint": "~0.11.1",
     "grunt": "~0.4.5"
@@ -23,7 +22,12 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "cdn", "content delivery network", "keycdn", "purge", "gruntplugin", "grunt"
+    "cdn",
+    "content delivery network",
+    "keycdn",
+    "purge",
+    "gruntplugin",
+    "grunt"
   ],
   "dependencies": {
     "keycdn": "~0.2.0"
