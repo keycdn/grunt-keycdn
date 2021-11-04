@@ -15,11 +15,11 @@
   "main": "Gruntfile.js",
   "scripts": {},
   "devDependencies": {
-    "grunt-contrib-jshint": "~0.11.1",
-    "grunt": "~0.4.5"
+    "grunt-contrib-jshint": ">=3.1.0",
+    "grunt": ">=1.4.0"
   },
   "peerDependencies": {
-    "grunt": ">=0.4.0"
+    "grunt": ">=1.4.0"
   },
   "keywords": [
     "cdn",
